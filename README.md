@@ -1,4 +1,4 @@
-1. El fondo debe ser color aqua utilizando el comando background-color
+1. El fondo debe ser una foto "fondo" utilizando el comando background-image
 2. utilizar https://fonts.google.com/ para cambiar la fuente "roboto","sans-serif"
 3. Centrar el texo des de el body utilizando los comandos margin-left y margin-right al 20%
 4. Centrar los titulos h1 y h2 con el comando text-align center
